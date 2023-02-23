@@ -104,13 +104,6 @@
     display: none;
 }
 
-.kitchen-btn-click-item:hover{
-    fill: var(--akzent-yellow);
-}
-
-.kitchen-btn-click-item:focus {
-    fill: var(--akzent-yellow);
-}
 /*  */
 
 @media screen and (min-width: 320px) and (max-width: 1024px) {
